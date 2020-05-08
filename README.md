@@ -22,8 +22,13 @@ Fair-Catch Kick
 Perhaps the rarest way to score in football is on the little-used fair-catch kick. If a team fair catches a punt from the other team, they have the option of attempting a field goal on a free kick on the very next play from the spot the punt is fielded. The ball is kicked off the ground with the aid of a holder and is worth three points just like a regular field goal. The down is not timed.
 
 To summarize:
+
 Touchdown = 6 points
+
 Extra Point Conversion = 1 point
+
 Two-Point Conversion = 2 points
+
 Field Goal = 3 points
+
 Safety= 2 points
